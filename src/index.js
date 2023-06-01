@@ -17,7 +17,7 @@ console.log(`Delicious! May I have another?`)
 // Remove the fruit from the array of fruits
 remove(fruits, randomFruit)
 
-console.log(`I'm sorry, we/re all out. We have ${fruits.length} fruits left.`)
+console.log(`I'm sorry, we're all out. We have ${fruits.length} fruits left.`)
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
